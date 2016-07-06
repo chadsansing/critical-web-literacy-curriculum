@@ -61,7 +61,7 @@ Let's create a DARCI for this project. Who should we add to the roles below?
 - **A** Chad Sansing
 - **R** Alan Berry, Jeremy Dean, Andre Garzia, Shreyas Kutty, Jonathan Prozzi, Chad Sansing, Tina Verbo, D.C. Vito
 - **C** Amira Dhalla, Meghan McDermott, Julia Vallera
-- **I** Mozilla Leadership Network (MLN)
+- **I** Mozilla Leadership Network (MLN). Mozilla Clubs, Hive, Digital Harbor, Hypothes.is, the LAMP
 
 *What other issues should we discuss around decision-making for our project?*
 ##Working open

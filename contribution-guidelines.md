@@ -13,7 +13,7 @@ You can think of these participation guidelines as a code of conduct for our pro
 - Follow the 50/50 rule: for each issue you raise or problem you identify, propose a solution, as well.
 - Avoid using jargon and ask for clarification when you need it.
 - Provide feedback in a timely way when invited to do so.
-- More suggestions from the group....
+- *More suggestions from the group....*
 
 Please also review the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) before contributing to this project.
 ##Communication

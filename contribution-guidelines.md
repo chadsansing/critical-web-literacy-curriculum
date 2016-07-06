@@ -48,11 +48,11 @@ Whenever possible, we will make decisions by consensus via email or online meeti
 However, sometimes we'll have decisions to make between several desirable and viable options and there will be no clear consensus on how to proceed. Likewise, we may face situations in which there are no ideal solutions. For example, scheduling meetings may prove difficult at times given how spread out we are across the world. At times like those, it will be helpful for us all to have a decision-making process on which we all agree.
 
 At the Mozilla Foundation, we use something called ***DARCI*** to help with situations like those described above. In a DARCI scheme
-- One person serves as D and makes **decisions** when there is no clear consensus on what to do next.
-- One person serves as A and is **accountable** for moving the project ahead and supporting all contributors in their work.
-- Several people serve as R and are **responsible** for the work of the project, like contributors to this project.
-- Several people serve as C and are **consulted** about the project's progress and invited to give feedback.
-- Several people serve as I and are **informed** so they can track the project for their communities and networks.
+- One person serves as **D** and makes **decisions** when there is no clear consensus on what to do next.
+- One person serves as **A** and is **accountable** for moving the project ahead and supporting all contributors in their work.
+- Several people serve as **R** and are **responsible** for the work of the project, like contributors to this project.
+- Several people serve as **C** and are **consulted** about the project's progress and invited to give feedback.
+- Several people serve as **I** and are **informed** so they can track the project for their communities and networks.
 
 Usually the D and A roles are occupied by different people so they can help one another see different ways of looking at the project.
 

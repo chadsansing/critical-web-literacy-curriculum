@@ -50,7 +50,7 @@ Working open involves
 - **Rapid prototyping.** Share your work early and often to create an effective and routine rhythm for revision and improvement.
 - **Public documentation, reflection, and storytelling.** Invite others to see your work as it develops so they can help you shape it for their communities.
 - **Community contribution.** Build in regular opportunities for your teammates and your own community stakeholders to review your work and suggest ways to improve it.
-- **Making the content accessible.** Host your work in places community members can access and copy it for their own adaptation and use.
+- **Making the content accessible.** Host your work in places where community members can access it and copy it for their own adaptation and use.
 
 The benefits of working open include
 - **Improved projects.** Insights from your teammates and community members will increase the quality of your work.

@@ -95,7 +95,7 @@ You're free to fork, reformat, and remix all of our work at all times for your o
 ##Safety
 The goal of this project is to create a compelling, relevant, and localizable critical web literacy curriculum for our communities and networks. It should be an affirming experience through which we recognize, value, and share our contributions and talents.
 
-***If at any time you feel unsafe, something has gone wrong, and we need to fix it immediately.***
+***If at any time you feel unsafe or know others feel unsafe, something has gone wrong, and we need to fix it immediately.***
 
 Please contact our safety officer for this project, [](), with any concerns you have about your safety or the safety of others. Our safety officer will identify and gather the right people to de-escalate and resolve the situation.
 

@@ -96,4 +96,4 @@ Suggest questions that help learners summarize what they did and give learners a
 
 You can also include lightweight assessment guidelines in this section to share with facilitators and learners (e.g. “You can assess learners’ responses as a form of self-assessment and ask them to back-up their statements with examples from their work”), but make sure that you encourage facilitators to assess learners’ work fairly and justly. Any assessments should be accessible to diverse range of learners and concentrate on critical web literacy rather than, say, the quality of a single learner’s writing.
 
-###Questions? Comments? Concerns? Email [Chad](mailto:chad@mozillafoundation.org).
+####Questions? Comments? Concerns? Email [Chad](mailto:chad@mozillafoundation.org).

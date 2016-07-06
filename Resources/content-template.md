@@ -81,13 +81,13 @@ Make sure to do the following:
 Steps in this activity will appear together as one larger “step” in the entire activity.
 
 ##Online Activity
-This should be a set of illustrated, step-by-step instructions walking facilitators and learners through the online activity included in the lesson. You can make your own illustrations or use https://search.creativecommons.org to help find them. Low-resolution illustrations are generally better for a global audience than high-resolution ones. It’s fine to include videos, but not everyone will be able to access or share them. You can also make animated .gifs as alternatives to videos when it makes sense to do so with services like GifMaker.
+This should be a set of illustrated, step-by-step instructions walking facilitators and learners through the online activity included in the lesson. You can make your own illustrations or use https://search.creativecommons.org to help find them. Low-resolution illustrations are generally better for a global audience than high-resolution ones. It’s fine to include videos, but not everyone will be able to access or share them. You can also make animated .gifs as alternatives to videos when it makes sense to do so with services like [GifMaker](http://gifmaker.me/).
 
 This activity should connect back to the icebreaker learners did to make or perform something connected to the skills learned in this part of the lesson. It should be as accessible and localizable as possible.
 
 Steps in this activity can be broken down into smaller, separate steps in our navigation bar. You can use headers to indicate where a new step begins. Try to keep each step as brief and clear as possible. You can look back to this example lesson to get a feel for how activities and steps are organized.
 
-Provide links to external resources (such as Thimble projects) and examples of work for learners to follow, if available.
+Provide links to external resources (such as [Thimble](https://thimble.mozilla.org) projects) and examples of work for learners to follow, if available.
 
 ##Reflection
 Include a section with questions for discussion about what worked, what didn’t work, and what people learn from your activity.

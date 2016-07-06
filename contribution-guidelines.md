@@ -32,7 +32,6 @@ When you share a draft of a lesson, please email the group to ask for feedback. 
 
 Scondary platforms for communication between individuals may include
 - Social media such as Facebook or Twitter.
-- The MatterMoz app.
 - An encrypted messaging service such as Whatsapp.
 
 Whenever contributors use a secondary platform for communication that doesn't reach the entire group, those conributors will pass along any key information or share any decision-making with the whole group via email.

@@ -98,4 +98,4 @@ You can also include lightweight assessment guidelines in this section to share 
 
 ---
 
-Help us improve this template. File an issue or mail our project lead, [Chad Sansing](mailto:chad@mozillafoundation.org).
+Help us improve this template. File an issue or email our project lead, [Chad Sansing](mailto:chad@mozillafoundation.org).

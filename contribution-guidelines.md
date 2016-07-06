@@ -24,7 +24,7 @@ We will use three primary platforms for communication:
 
 When you share a draft of a lesson, please email the group to ask for feedback. Provide
 - A link to the draft.
-- Notice of whether or not it's a GDoc or GitHub file.
+- Notice of whether it's a GDoc or GitHub file.
 - Notice of how to give feedback (e.g. "Please leave comments" or "Please file new issues").
 - Specific questions you have for your respondents.
 - A deadline for giving feedback.

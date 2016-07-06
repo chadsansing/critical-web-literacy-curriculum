@@ -17,7 +17,8 @@ You can think of these participation guidelines as a code of conduct for our pro
 
 Please also review the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) before contributing to this project.
 ##Communication
-We will use three primary platforms for communication:
+We will use four primary platforms for communication:
+- Google Hangouts for online meetings.
 - Email for scheduling meetings and sharing key information and decision-making with the whole group. 
 - Google Docs for sharing drafts and offering feedback on them via comments, edits, and suggestions.
 - GitHub for sharing drafts and offering feedback on them via issues.
@@ -41,6 +42,28 @@ If you blog or otherwise post about this project on social media, please share a
 We may also decide to develop a 'dev blog,' or development blog, to document our practices and openly share our progress with our communities and networks.
 
 *What other platforms and channels should we consider for communications and what protocols whouls we develop for them?*
+##Decision-making
+Whenever possible, we will make decisions by consensus via email or online meetings.
+
+However, sometimes we'll have decisions to make between several desirable and viable options and there will be no clear consensus on how to proceed. Likewise, we may face situations in which there are no ideal solutions. For example, scheduling meetings may prove difficult at times given how spread out we are across the world. At times like those, it will be helpful for us all to have a decision-making process on which we all agree.
+
+At the Mozilla Foundation, we use something called ***DARCI*** to help with situations like those described above. In a DARCI scheme
+- One person serves as D and makes **decisions** when there is no clear consensus on what to do next.
+- One person serves as A and is **accountable** for moving the project ahead and supporting all contributors in their work.
+- Several people serve as R and are **responsible** for the work of the project, like contributors to this project.
+- Several people serve as C and are **consulted** about the project's progress and invited to give feedback.
+- Several people serve as I and are **informed** so they can track the project for their communities and networks.
+
+Usually the D and A roles are occupied by different people so they can help one another see different ways of looking at the project.
+
+Let's create a DARCI for this project. Who should we add to the roles below?
+- **D**
+- **A** Chad Sansing
+- **R** Alan Berry, Jeremy Dean, Andre Garzia, Shreyas Kutty, Jonathan Prozzi, Chad Sansing, Tina Verbo, D.C. Vito
+- **C** Amira Dhalla, Meghan McDermott, Julia Vallera
+- **I** Mozilla Leadership Network (MLN)
+
+*What other issues should we discuss around decision-making for our project?*
 ##Working open
 With due respect for the privacy choices and safety of people involved in the project, strive to work as openly as possible on this project by hosting your work in publicly accessible places for contributions and feedback from others.
 

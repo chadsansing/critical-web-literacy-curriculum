@@ -102,4 +102,4 @@ Please contact our safety officer for this project, [](), with any concerns you 
 
 ---
 
-######Questions? Comments? Concerns? Email our project lead, [Chad Sansing](mailto:chad@mozillafoundation.org).
+######Help us improve these guidelines. Email our project lead, [Chad Sansing](mailto:chad@mozillafoundation.org).

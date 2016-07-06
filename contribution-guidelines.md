@@ -99,5 +99,7 @@ The goal of this project is to create a compelling, relevant, and localizable cr
 Please contact our safety officer for this project, [](), with any concerns you have about your safety or the safety of others. Our safety officer will identify and gather the right people to de-escalate and resolve the situation.
 
 *What other safety issues should we address here?*
+
 ---
+
 ######Questions? Comments? Concerns? Email our project lead, [Chad Sansing](mailto:chad@mozillafoundation.org).

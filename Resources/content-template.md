@@ -1,6 +1,6 @@
 #Critical Web Literacy Module | Content Template - DRAFT
 
-This template will help you draft activities for our Critical Web Literacy module. See this lesson to check out how things are organized inside our curriculum modules. Please ask questions and make suggestions about how to improve the template using comments or suggestions.
+This template will help you draft activities for our Critical Web Literacy module. See [this lesson](http://chadsansing.github.io/curriculum-testing/intermediate-web-lit-two/session01-buttons-and-alerts.html#overview0) to check out how things are organized inside our curriculum modules. Please ask questions and make suggestions about how to improve the template using comments or suggestions.
 
 Your tone should be conversational throughout and you should address the second person, or “you,” who will be the facilitator or leader of your lesson.
 

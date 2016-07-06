@@ -55,7 +55,7 @@ Working open involves
 The benefits of working open include
 - **Improved projects.** Insights from your teammates and community members will increase the quality of your work.
 - **Greater efficiency.** Committing to the communication channels, norms, and workflow of the project will help you manage your time and contributions to it.
-- **Increased discoverability.** Your content will show up across the networks and communities connected to everyone who helps on this project.
+- **Increased discoverability.** Your content will show up across the networks and communities of everyone who helps this project.
 - **A stronger commons.** Your content will be openly available to people around the world with similar design needs who couldn't participate directly in this project now or in the future.
 
 *What other questions about working open should we answer here?*

@@ -60,7 +60,7 @@ The benefits of working open include
 
 *What other questions about working open should we answer here?*
 ##Content development
-Eventually, we will share this work via GitHub and, possibly, [Thimble](https://thimble.mozilla.org). You can draft your work however you'd like. When you are ready to share, please migrate your content to a GitHub file in the *activities* folder of this repo or to a Google Doc for sharing with thr group.
+Eventually, we will publish this work via GitHub and, possibly, [Thimble](https://thimble.mozilla.org). You can draft your work however you'd like. When you are ready to share, please migrate your content to a GitHub file in the *activities* folder of this repo or to a Google Doc for sharing with the group.
 
 Your content will be licensed as [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) and credited to you and Mozilla.
 

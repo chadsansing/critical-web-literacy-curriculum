@@ -96,7 +96,7 @@ The goal of this project is to create a compelling, relevant, and localizable cr
 
 ***If at any time you feel unsafe or know others feel unsafe, something has gone wrong, and we need to fix it immediately.***
 
-Please contact our safety officer for this project, [](), with any concerns you have about your safety or the safety of others. Our safety officer will identify and gather the right people to de-escalate and resolve the situation.
+Please contact our safety officer for this project, [Meghan McDermott](mailto:meghan@mozillafoundation.org), with any concerns you have about your safety or the safety of others. Our safety officer will identify and gather the right people to de-escalate and resolve the situation.
 
 *What other safety issues should we address here?*
 

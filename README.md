@@ -12,5 +12,8 @@ More soon.
 ##Timeline
 This project should run from July, 2016, through January, 2017, culminating with the publication of a critical web literacy curriculum module on [https://learning.mozilla.org/activities](https://learning.mozilla.org/activities).
 
+##Resources
+- [Activity/lesson plan content template](https://docs.google.com/document/d/1rr3MDOcfigcidn33LlGIN_rZg2gGyaQonPWxHfPBbMM/edit?usp=sharing)
+
 ##Contact
 Interested in contributing? Email [Chad Sansing](mailto:chad@mozillafoundation.org), project lead and curriculum developer at the Mozilla Foundation.

@@ -4,7 +4,7 @@ This template will help you draft activities for our Critical Web Literacy modul
 
 Your tone should be conversational throughout and you should address the second person, or “you,” who will be the facilitator or leader of your lesson.
 
-*You can also find [a copy of this template on Google Drive](https://docs.google.com/document/d/1rr3MDOcfigcidn33LlGIN_rZg2gGyaQonPWxHfPBbMM/edit#). Please cut and paste this version of the template or make a copy on Google Drive (File → Make a copy…) to begin a new draft of a lesson, delete the original writing, and then add your own.*
+*You can also find [a copy of this template on Google Drive](https://docs.google.com/document/d/1rr3MDOcfigcidn33LlGIN_rZg2gGyaQonPWxHfPBbMM/edit#). Please clone, fork, or cut and paste this version of the template or make a copy on Google Drive (File → Make a copy…) to begin a new draft of a lesson, delete the original writing, and then add your own.*
 
 ##Overview
 

@@ -41,7 +41,7 @@ If you blog or otherwise post about this project on social media, please share a
 
 We may also decide to develop a 'dev blog,' or development blog, to document our practices and openly share our progress with our communities and networks.
 
-*What other platforms and channels should we consider for communications and what protocols whouls we develop for them?*
+*What other platforms and channels should we consider for communications and what protocols should we develop for them?*
 ##Decision-making
 Whenever possible, we will make decisions by consensus via email or online meetings.
 

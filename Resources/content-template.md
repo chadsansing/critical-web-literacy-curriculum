@@ -25,26 +25,26 @@ Your tone should be conversational throughout and you should address the second 
 **Read | Write | Participate on the Web** [include one, two, or all applicable verbs]
 
 **21st Century Skills:** [include all applicable skills]:
--[ ] Collaboration
--[ ] Communication
--[ ] Creativity
--[ ] Problem-solving
+- [ ] Collaboration
+- [ ] Communication
+- [ ] Creativity
+- [ ] Problem-solving
 
 **Web Literacy Skills:** [include all applicable skills; see the Web Literacy Map]
--[ ] Search
--[ ] Navigate
--[ ] Synthesize
--[ ] Evaluate
--[ ] Design
--[ ] Code
--[ ] Compose
--[ ] Revise
--[ ] Remix
--[ ] Connect
--[ ] Protect
--[ ] Open Practice
--[ ] Contribute
--[ ] Share
+- [ ] Search
+- [ ] Navigate
+- [ ] Synthesize
+- [ ] Evaluate
+- [ ] Design
+- [ ] Code
+- [ ] Compose
+- [ ] Revise
+- [ ] Remix
+- [ ] Connect
+- [ ] Protect
+- [ ] Open Practice
+- [ ] Contribute
+- [ ] Share
 
 **Learning Objectives:** [bulleted list, 3-5; lead with a verb and be specific, e.g. “Style a webpage using CSS selectors for color and size,” or, “Summarize how JavaScript interacts with an button on a HTML webpage.”]
  

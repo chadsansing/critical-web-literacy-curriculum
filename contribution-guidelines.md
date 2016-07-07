@@ -59,7 +59,7 @@ Let's create a DARCI for this project. Who should we add to the roles below? Do 
 - **R** - Alan Berry, Jeremy Dean, Kenyatta Forbes, Andre Garzia, Shreyas Kutty, Jonathan Prozzi, Chad Sansing, Tina Verbo, D.C. Vito
 - **C** - Amira Dhalla, Meghan McDermott, Julia Vallera
 - **I** - Mozilla Leadership Network (MLN), Mozilla Clubs, Hive, Digital Harbor, Hypothes.is, the LAMP
-- 
+
 Although Chad will serve as D and A for this project to make final decisions about content, everyone will have say in suggesting ways forward through the work. Everyone will be able to make proposals and suggest decisions; in the absence of clear consensus or in the presence of a dilemma, Chad will make decisions for the overall project.
 
 *What other issues should we discuss around decision-making for our project?*

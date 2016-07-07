@@ -3,17 +3,15 @@
 ##Participation
 You can think of these participation guidelines as a code of conduct for our project, as well.
 
-- Bring your best self to the work.
-- Assume best intentions from others.
-- Take care of yourself.
-- Take care of others.
-- Actively encourage welcoming, inclusive behavior.
-- Actively discourage harrassment, prejudice, and behavior that excludes others.
-- Work as openly as possible with due respect for others' privacy choices and safety.
+- Bring your best self to the work and assume best intentions from others.
+    - For example, encourage welcoming, inclusive conversation.
+    - That means as we talk about issues like crucial narratives and social change, let's be aware of our language.
+- Work as openly as possible with due respect for others' privacy choices and sense of agency.
 - Follow the 50/50 rule: for each issue you raise or problem you identify, propose a solution, as well.
 - Avoid using jargon and ask for clarification when you need it.
 - Provide feedback in a timely way when invited to do so.
-- *More suggestions from the group....*
+- *What examples can we tie to these norms?*
+- *What norms would we add?*
 
 Please also review the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) before contributing to this project.
 ##Communication
@@ -42,11 +40,11 @@ We may also decide to develop a 'dev blog,' or development blog, to document our
 
 *What other platforms and channels should we consider for communications and what protocols should we develop for them?*
 ##Decision-making
-Whenever possible, we will make decisions by consensus via email or online meetings.
+Whenever possible, we will make decisions by consensus via email or online meetings. Consensus will be the default and the desired decison-making process. Decisions made on individual pieces of work will be made by the people developing them.
 
 However, sometimes we'll have decisions to make between several desirable and viable options and there will be no clear consensus on how to proceed. Likewise, we may face situations in which there are no ideal solutions. For example, scheduling meetings may prove difficult at times given how spread out we are across the world. At times like those, it will be helpful for us all to have a decision-making process on which we all agree.
 
-At the Mozilla Foundation, we use something called **DARCI** to help with situations like those described above. In a DARCI scheme
+At the Mozilla Foundation, we use something called **DARCI** to help with situations like those described above. You can learn more about the framework [here](http://www.stproject.org/wp-content/uploads/2014/11/darci-accountability-grid.pdf). In a DARCI scheme
 - One person serves as **D** and makes **decisions** when there is no clear consensus on what to do next.
 - One person serves as **A** and is **accountable** for moving the project ahead and supporting all contributors in their work.
 - Several people serve as **R** and are **responsible** for the work of the project, like contributors to this project.
@@ -55,12 +53,14 @@ At the Mozilla Foundation, we use something called **DARCI** to help with situat
 
 Usually the D and A roles are occupied by different people so they can help one another see different ways of looking at the project.
 
-Let's create a DARCI for this project. Who should we add to the roles below?
-- **D** -
-- **A** - Chad Sansing
+Let's create a DARCI for this project. Who should we add to the roles below? Do these suggestions look right to you?
+- **D** - Chad Sansing + TBD
+- **A** - Chad Sansing + TBD
 - **R** - Alan Berry, Jeremy Dean, Kenyatta Forbes, Andre Garzia, Shreyas Kutty, Jonathan Prozzi, Chad Sansing, Tina Verbo, D.C. Vito
 - **C** - Amira Dhalla, Meghan McDermott, Julia Vallera
 - **I** - Mozilla Leadership Network (MLN), Mozilla Clubs, Hive, Digital Harbor, Hypothes.is, the LAMP
+- 
+Although Chad will serve as D and A for this project to make final decisions about content, everyone will have say in suggesting ways forward through the work. Everyone will be able to make proposals and suggest decisions; in the absence of clear consensus or in the presence of a dilemma, Chad will make decisions for the overall project.
 
 *What other issues should we discuss around decision-making for our project?*
 ##Working open
@@ -91,12 +91,12 @@ Content should be structured according to the content template found in [this re
 You're free to fork, reformat, and remix all of our work at all times for your own channels, communities, networks, and sites.
 
 *What else should we think about as we develop content for this project?*
-##Safety
+##Safe Space
 The goal of this project is to create a compelling, relevant, and localizable critical web literacy curriculum for our communities and networks. It should be an affirming experience through which we recognize, value, and share our contributions and talents.
 
-***If at any time you feel unsafe or know others feel unsafe, something has gone wrong, and we need to fix it immediately.***
+***If there are moments when the group feels like this space is no longer safe, then something has gone wrong, and we shoiuld take the next step and contact our safe space steward.***
 
-Please contact our safety officer for this project, [Meghan McDermott](mailto:meghan@mozillafoundation.org), with any concerns you have about your safety or the safety of others. Our safety officer will identify and gather the right people to de-escalate and resolve the situation.
+Please contact our external ally, [Meghan McDermott](mailto:meghan@mozillafoundation.org), with any concerns you have about your safety or the safety of others. Meghan is someone outside this project who can look at it with fresh eyes and identify and gather the right people to de-escalate and resolve the situation.
 
 *What other safety issues should we address here?*
 

@@ -14,6 +14,11 @@ This project should run from July, 2016, through January, 2017, culminating with
 
 ##External resources
 - [Content template GDoc](https://docs.google.com/document/d/1rr3MDOcfigcidn33LlGIN_rZg2gGyaQonPWxHfPBbMM/edit?usp=sharing)
+- [Digital Harbor](http://www.digitalharbor.org/)
+- [Hive Chicago](http://hivechicago.org/about/)
+- [Hypothes.is](https://hypothes.is)
+- [Media Breaker](http://thelamp.org/portfolio/media-breaker/)
+- [Mozilla Clubs](https://learning.mozilla.org/clubs)
 
 ##Contact
 Interested in contributing? File an issue or email [Chad Sansing](mailto:chad@mozillafoundation.org), project lead and curriculum developer at the Mozilla Foundation.

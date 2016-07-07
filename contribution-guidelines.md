@@ -58,7 +58,7 @@ Usually the D and A roles are occupied by different people so they can help one 
 Let's create a DARCI for this project. Who should we add to the roles below?
 - **D** -
 - **A** - Chad Sansing
-- **R** - Alan Berry, Jeremy Dean, Andre Garzia, Shreyas Kutty, Jonathan Prozzi, Chad Sansing, Tina Verbo, D.C. Vito
+- **R** - Alan Berry, Jeremy Dean, Kenyatta Forbes, Andre Garzia, Shreyas Kutty, Jonathan Prozzi, Chad Sansing, Tina Verbo, D.C. Vito
 - **C** - Amira Dhalla, Meghan McDermott, Julia Vallera
 - **I** - Mozilla Leadership Network (MLN), Mozilla Clubs, Hive, Digital Harbor, Hypothes.is, the LAMP
 

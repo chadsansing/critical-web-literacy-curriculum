@@ -94,7 +94,7 @@ You're free to fork, reformat, and remix all of our work at all times for your o
 ##Safe Space
 The goal of this project is to create a compelling, relevant, and localizable critical web literacy curriculum for our communities and networks. It should be an affirming experience through which we recognize, value, and share our contributions and talents.
 
-***If there are moments when the group feels like this space is no longer safe, then something has gone wrong, and we shoiuld take the next step and contact our external ally, [Meghan McDermott](mailto:meghan@mozillafoundation.org).***
+***If there are moments when the group feels like this space is no longer safe, then something has gone wrong, and we should take the next step and contact our external ally, [Meghan McDermott](mailto:meghan@mozillafoundation.org).***
 
 Meghan is someone outside this project who can look at it with fresh eyes and identify and gather the right people to help us preserve our safe space.
 

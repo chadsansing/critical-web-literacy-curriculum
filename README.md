@@ -7,7 +7,15 @@ This is a repo for developing Mozilla's critical web literacy curriculum module 
 The goal of this curriculum is to create compelling, relevant, and localizable critical media literacy lessons for use online and off. Co-designers will pay special attention to scaffolding offline activities for low- and no-bandwidth communities that teach the same concepts and skills in the related online activities in each lesson.
 
 ##Team
-More soon.
+- Alan Berry, Education Director at the LAMP
+- Jeremy Dean, Director of Education at Hypothes.is
+- Kenyatta Forbes, Community Manager for Hive Chicago
+- Andre Garzia, Regional Coordinator for Mozilla Clubs in Brazil
+- Shreyas Narayanan Kutty, Regional Coordinator for Mozilla Clubs in India
+- Jonathan Prozzi, Content Developer at the Digital Harbor Foundation
+- Chad Sansing, Curriculum Developer at the Mozilla Foundation
+- Tina Verbo, Regional Coordinator for Mozilla Clubs in the Philippines
+- Janice Wait, Portfolio Manager, Gigabit Hive Kansas City
 
 ##Timeline
 This project should run from July, 2016, through January, 2017, culminating with the publication of a critical web literacy curriculum module on [https://learning.mozilla.org/activities](https://learning.mozilla.org/activities).

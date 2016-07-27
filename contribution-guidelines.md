@@ -16,7 +16,7 @@ You can think of these participation guidelines as a code of conduct for our pro
 Please also review the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) before contributing to this project.
 ##Communication
 We will use four primary platforms for communication:
-- Google Hangouts for online meetings.
+- Vidyo/call-in for online meetings. If this doesn't work we can try Hangouts or Skype.
 - Email for scheduling meetings and sharing key information and decision-making with the whole group. 
 - Google Docs for sharing drafts and offering feedback on them via comments, edits, and suggestions.
 - GitHub for sharing drafts and offering feedback on them via issues.

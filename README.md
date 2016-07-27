@@ -12,6 +12,10 @@ More soon.
 ##Timeline
 This project should run from July, 2016, through January, 2017, culminating with the publication of a critical web literacy curriculum module on [https://learning.mozilla.org/activities](https://learning.mozilla.org/activities).
 
+##Meeting Notes
+- [Kick-off Meeting 1](https://docs.google.com/document/d/1z_HzWNmK1E-gZkT7U8KpT0IMPMIA2KGZLe2QDqF0Hdk/edit#)
+- [kick-off Meeting 2](https://docs.google.com/document/d/1qd7NKKKW3XPZZGYVI2rEUX8JwTD15tTBrZ8eRoJMql4/edit#)
+
 ##External resources
 - [Content template GDoc](https://docs.google.com/document/d/1rr3MDOcfigcidn33LlGIN_rZg2gGyaQonPWxHfPBbMM/edit?usp=sharing)
 - [Digital Harbor](http://www.digitalharbor.org/)

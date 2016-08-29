@@ -14,7 +14,6 @@ The goal of this curriculum is to create compelling, relevant, and localizable c
 - Jonathan Prozzi, Content Developer at the Digital Harbor Foundation
 - Chad Sansing, Curriculum Developer at the Mozilla Foundation
 - Tina Verbo, Regional Coordinator for Mozilla Clubs in the Philippines
-- Janice Wait, Portfolio Manager, Gigabit Hive Kansas City
 
 ##Timeline
 This project should run from July, 2016, through January, 2017, culminating with the publication of a critical web literacy curriculum module on [https://learning.mozilla.org/activities](https://learning.mozilla.org/activities).

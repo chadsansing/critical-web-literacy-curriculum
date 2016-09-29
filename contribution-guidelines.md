@@ -40,7 +40,7 @@ We may also decide to develop a 'dev blog,' or development blog, to document our
 
 *What other platforms and channels should we consider for communications and what protocols should we develop for them?*
 ##Decision-making
-Whenever possible, we will make decisions by consensus via email or online meetings. Consensus will be the default and the desired decison-making process. Decisions made on individual pieces of work will be made by the people developing them.
+Whenever possible, we will make decisions by consensus via email or online meetings. Consensus will be the default and the desired decision-making process. Decisions made on individual pieces of work will be made by the people developing them.
 
 However, sometimes we'll have decisions to make between several desirable and viable options and there will be no clear consensus on how to proceed. Likewise, we may face situations in which there are no ideal solutions. For example, scheduling meetings may prove difficult at times given how spread out we are across the world. At times like those, it will be helpful for us all to have a decision-making process on which we all agree.
 

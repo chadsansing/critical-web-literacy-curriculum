@@ -1,4 +1,4 @@
-#Critical Web Literacy Module | Content Template - DRAFT
+#Mozilla Curriculum Content Template - DRAFT
 
 This template will help you draft activities for our Critical Web Literacy module. See [this lesson](http://chadsansing.github.io/curriculum-testing/intermediate-web-lit-two/session01-buttons-and-alerts.html#overview0) to check out how things are organized inside our curriculum modules. Please ask questions and make suggestions about how to improve the template using comments or suggestions.
 
